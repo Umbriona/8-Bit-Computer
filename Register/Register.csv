@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"J2","1","Conn_01x08_Pin_aritm","","","","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Horizontal",""
+"J3","1","Conn_02x04_LED_regA","","","","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Horizontal",""
+"J4","1","Conn_02x04_LED_regB","","","","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Horizontal",""
+"J5","1","Conn_02x04_Control_Logic","","","","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Horizontal",""
+"J6","1","Conn_01x12","","","","Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Horizontal",""
+"U1,U2,U3,U4","4","74LS245","","","","Package_DIP:DIP-20_W7.62mm","http://www.ti.com/lit/gpn/sn74LS245"
+"U7,U8,U9,U10","4","74LS173","","","","Package_DIP:DIP-16_W10.16mm","http://www.ti.com/lit/gpn/sn74LS173"
